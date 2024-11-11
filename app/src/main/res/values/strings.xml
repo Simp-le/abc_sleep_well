@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Sleep Well</string>
+
+    <string name="day">Day</string>
+
+    <!-- Titles -->
+    <string name="day_1_title">Set a Consistent Bedtime</string>
+    <string name="day_2_title">Create a Relaxing Bedtime Routine</string>
+    <string name="day_3_title">Limit Screen Time Before Bed</string>
+    <string name="day_4_title">Exercise Regularly</string>
+    <string name="day_5_title">Avoid Caffeine in the Afternoon</string>
+    <string name="day_6_title">Try Meditation</string>
+    <string name="day_7_title">Make Your Bedroom Sleep-Friendly</string>
+    <string name="day_8_title">Monitor Your Sleep Patterns</string>
+    <string name="day_9_title">Avoid Heavy Meals Before Bed</string>
+    <string name="day_10_title">Limit Naps</string>
+    <string name="day_11_title">Practice Deep Breathing</string>
+    <string name="day_12_title">Try a Warm Bath Before Bed</string>
+    <string name="day_13_title">Reduce Noise and Light</string>
+    <string name="day_14_title">Avoid Heavy Exercise Before Bed</string>
+    <string name="day_15_title">Optimize Your Sleep Position</string>
+    <string name="day_16_title">Use Aromatherapy</string>
+    <string name="day_17_title">Read a Book to Unwind</string>
+    <string name="day_18_title">Stay Hydrated</string>
+    <string name="day_19_title">Avoid Alcohol Before Bed</string>
+    <string name="day_20_title">Establish a Morning Routine</string>
+    <string name="day_21_title">Use a Sleep App for Guidance</string>
+    <string name="day_22_title">Try a White Noise Machine</string>
+    <string name="day_23_title">Spend Time in Natural Light</string>
+    <string name="day_24_title">Keep Your Room Cool</string>
+    <string name="day_25_title">Limit Fluid Intake Before Bed</string>
+    <string name="day_26_title">Try Progressive Muscle Relaxation</string>
+    <string name="day_27_title">Manage Stress During the Day</string>
+    <string name="day_28_title">Avoid Sleeping Pills</string>
+    <string name="day_29_title">Incorporate Light Stretching Before Bed</string>
+    <string name="day_30_title">Reflect on Your Progress</string>
+
+    <!-- Descriptions -->
+    <string name="day_1_description">Set a regular bedtime and stick to it every day, even on weekends. This helps regulate your body\'s internal clock.</string>
+    <string name="day_2_description">Create a calming bedtime routine that signals your body it\'s time to wind down. Consider reading, stretching, or light meditation.</string>
+    <string name="day_3_description">Avoid screens like phones, tablets, or computers at least an hour before bed. The blue light can interfere with your sleep quality.</string>
+    <string name="day_4_description">Incorporate regular physical activity into your daily routine. Just make sure to finish exercising a few hours before bed.</string>
+    <string name="day_5_description">Skip caffeine in the afternoon and evening. Caffeine can stay in your system for hours, affecting your ability to fall asleep.</string>
+    <string name="day_6_description">Try meditating for a few minutes each day. Meditation can help reduce stress and make it easier to fall asleep.</string>
+    <string name="day_7_description">Make sure your bedroom is conducive to sleep: cool, quiet, and dark. Consider blackout curtains and earplugs if needed.</string>
+    <string name="day_8_description">Keep track of your sleep patterns using a journal or app. This can help you identify habits that are affecting your sleep.</string>
+    <string name="day_9_description">Avoid eating large meals before bedtime. If you\'re hungry, opt for a light snack.</string>
+    <string name="day_10_description">Limit naps to 20–30 minutes in the early afternoon. Long or late naps can interfere with your nighttime sleep.</string>
+    <string name="day_11_description">Practice deep breathing exercises before bed. This can help calm your mind and prepare your body for sleep.</string>
+    <string name="day_12_description">Take a warm bath before bed to relax your muscles and lower your body temperature, signaling to your body that it\'s time to sleep.</string>
+    <string name="day_13_description">Reduce noise and light in your bedroom. Consider earplugs, white noise, or an eye mask if necessary.</string>
+    <string name="day_14_description">Avoid heavy exercise within a few hours of bedtime. While exercise is beneficial, doing it too close to bedtime can increase adrenaline levels and make it harder to fall asleep.</string>
+    <string name="day_15_description">Check your sleep position and make adjustments if needed. A proper position can reduce pain and discomfort, improving sleep.</string>
+    <string name="day_16_description">Try using essential oils like lavender or chamomile in your bedroom. Aromatherapy can create a relaxing atmosphere.</string>
+    <string name="day_17_description">Read a book before bed to relax your mind. Choose something light and avoid anything too stimulating.</string>
+    <string name="day_18_description">Stay hydrated throughout the day, but reduce fluid intake in the evening to avoid waking up during the night.</string>
+    <string name="day_19_description">Avoid alcohol before bed. While it might help you fall asleep, it can disrupt your sleep cycle during the night.</string>
+    <string name="day_20_description">Establish a consistent morning routine to help regulate your internal clock. Exposure to natural light in the morning can be especially helpful.</string>
+    <string name="day_21_description">Consider using a sleep app to guide you through relaxation techniques or track your sleep patterns.</string>
+    <string name="day_22_description">Try using a white noise machine to drown out background noises that might disturb your sleep.</string>
+    <string name="day_23_description">Spend time in natural light during the day, especially in the morning. This helps regulate your sleep-wake cycle.</string>
+    <string name="day_24_description">Keep your bedroom cool, between 60–67°F (15–19°C), to create an optimal sleep environment.</string>
+    <string name="day_25_description">Limit your fluid intake before bed to avoid waking up in the middle of the night to use the bathroom.</string>
+    <string name="day_26_description">Try progressive muscle relaxation techniques. This involves tensing and then slowly relaxing each muscle group, starting from your toes up to your head.</string>
+    <string name="day_27_description">Manage your stress levels throughout the day. Consider activities like yoga, deep breathing, or journaling to help reduce stress.</string>
+    <string name="day_28_description">Avoid relying on sleeping pills as they can lead to dependency and don\'t address the root cause of sleep problems.</string>
+    <string name="day_29_description">Incorporate light stretching into your bedtime routine. Gentle stretches can help relax your muscles and prepare your body for a restful night’s sleep.</string>
+    <string name="day_30_description">Take time to reflect on the progress you\'ve made over the past 30 days. Celebrate your improvements and continue practicing the habits that work for you.</string>
+</resources>
